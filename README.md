@@ -3,9 +3,7 @@ Tic-Tac-Toe
 </h1>
 
  <div>
-  <p>This application was developed in javascript together with HTML and CSS. This is a calculator for Christmas buffets, 
-  designed to calculate the amount of food for a certain number of people for a certain period of duration of the event. 
-  The parameters used for calculation were as follows:<p/>
+  <p>This application was developed in javascript together with HTML and CSS. This is a Tic-Tac-Toe game in which two players seek in alternate turns to complete a row, a column, or a diagonal with either three O's or three X's drawn in the spaces of a grid of nine squares.<p/>
   </div>
   
   
